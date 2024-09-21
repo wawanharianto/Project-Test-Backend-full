@@ -1,0 +1,6 @@
+{
+    "rules": {
+      "linebreak-style": ["error", "unix"] // Use "windows" for Windows-style linebreaks (\r\n)
+    },
+    "vs-code-prettier-eslint.prettierLast": true
+  }
